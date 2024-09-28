@@ -6,7 +6,7 @@ I am a bachelor’s student with a keen interest in cybersecurity, a knack for s
 
 ## Objective
 
-I’ve always been captivated by the mechanics of security, and tackling complex problems keeps me motivated and engaged. I aim to become a Tier-1 Security Engineer.
+I have a strong passion for the intricacies of security, and I find great motivation in addressing complex challenges. This drive inspires me to pursue a career as a Tier-1 Security Engineer.
 
 ## Skills
 
