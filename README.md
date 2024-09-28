@@ -6,7 +6,7 @@ I’m a bachelor’s student with a keen interest in cybersecurity, a knack for 
 
 ## Objective
 
-I’ve always been captivated by the mechanics of security, and tackling complex problems keeps me motivated and engaged. My aim is to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’ve always been captivated by the mechanics of security, and tackling complex problems keeps me motivated and engaged.
 
 ## Skills
 
