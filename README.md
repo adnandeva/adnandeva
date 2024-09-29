@@ -1,4 +1,4 @@
-# Hi, Adnan this side.
+# Hi there, I'm Adnan.
 <a href="https://linkedin.com/in/adnan-deva-3163b6290"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
